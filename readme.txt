@@ -44,7 +44,7 @@ Translate your site in many languages with the BaiDu Translator plugin from JoyB
 
 You can register for Baidu developer at http://api.fanyi.baidu.com. After that you can find your AppID and Key in '管理控制台' panel. Or just leave it blank to use default AppID and Key.
 
-= Why cannot the plugin translate my page sometime? =
+= Why cannot the plugin translate my page sometimes? =
 
 Using the default AppID and Key means you share the same AppID and Key with all the other users of this plugin. The limitation of the translating words number is 2,000,000 per month. So if too many users use this plugin, the interface to Baidu translating service will be unavailable. Please register for a new developer ID at http://api.fanyi.baidu.com for free and set to Settings->BaiDu Translator->AppID and Key. 
 
