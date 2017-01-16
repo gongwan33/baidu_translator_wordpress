@@ -46,7 +46,7 @@ You can register for Bai Du developer at http://api.fanyi.baidu.com. After that 
 
 = Why cannot the plugin translate my page sometime? =
 
-Using the default AppID and Key means you share the same AppID and Key with all the other users of this plugin. The limitation of the translating words number is 2,000,000 per month. So if too many users use this plugin, the interface to Bai Du translating service will be unavailable. Please register for a new developer ID at http://api.fanyi.baidu.com for free. And 
+Using the default AppID and Key means you share the same AppID and Key with all the other users of this plugin. The limitation of the translating words number is 2,000,000 per month. So if too many users use this plugin, the interface to Bai Du translating service will be unavailable. Please register for a new developer ID at http://api.fanyi.baidu.com for free and set to Settings->BaiDu Translator->AppID and Key. 
 
 == Screenshots ==
 
