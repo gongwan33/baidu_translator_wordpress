@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: gongwan33
-Donate link: http://www.joybin.cn/wordpress-plugins/baidu-translator
+Donate link: http://www.joybin.cn/wordpress-plugins/baidu-translator.html
 Tags: translator, internationalization, translation, localization, i18n, Cantonese
 Requires at least: 3.8
 Tested up to: 4.7
