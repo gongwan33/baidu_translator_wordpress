@@ -18,8 +18,8 @@ Translate your site in many languages with the BaiDu Translator plugin from JoyB
 1. Upload the plugin files to the `/wp-content/plugins/baidu-translator` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Use the Settings->BaiDu Translator screen to configure the plugin.
-4. You can use shortcode or widge to add BaiDu Translator to your page.
-    * Shotcode: Add [baidu_translator] to the place you want insert this plugin. Or click 'Translator' button and choose 'Insert plugin' when editing the posts and pages.
+4. You can use shortcode or widget to add BaiDu Translator to your page.
+    * Shortcode: Add [baidu_translator] to where you want to insert this plugin. Or click the 'Translator' button and choose 'Insert plugin' when editing the posts and pages.
       For Example:
       <html>
       <body>
@@ -44,9 +44,9 @@ Translate your site in many languages with the BaiDu Translator plugin from JoyB
 
 You can register for Baidu developer at http://api.fanyi.baidu.com. After that you can find your AppID and Key in '管理控制台' panel. Or just leave it blank to use default AppID and Key.
 
-= Why cannot the plugin translate my page sometimes? =
+= Why does the plugin fail to translate my page sometimes? =
 
-Using the default AppID and Key means you share the same AppID and Key with all the other users of this plugin. The limitation of the translating words number is 2,000,000 per month. So if too many users use this plugin, the interface to Baidu translating service will be unavailable. Please register for a new developer ID at http://api.fanyi.baidu.com for free and set to Settings->BaiDu Translator->AppID and Key. 
+Using the default AppID and Key means you share the same AppID and Key with all the other users of this plugin. The limitation of the number of words to be translated is 2,000,000 per month. So if too many users use this plugin, the interface to Baidu translating service will be unavailable. In this case, you can register for a new developer ID at http://api.fanyi.baidu.com for free and set to Settings->BaiDu Translator->AppID and Key. 
 
 == Screenshots ==
 
