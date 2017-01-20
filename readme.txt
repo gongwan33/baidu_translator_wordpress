@@ -17,8 +17,8 @@ Translate your site in many languages with this plugin from JoyBin, Inc. (The se
 == Installation ==
 1. Upload the plugin files to the `/wp-content/plugins/baidu-translator` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
-3. Use the Settings->BaiDu Translator screen to configure the plugin.
-4. You can use shortcode or widget to add BaiDu Translator to your page.
+3. Use the Settings->BD Translator screen to configure the plugin.
+4. You can use shortcode or widget to add Translator with Baidu Service to your page.
     * Shortcode: Add [baidu_translator] to where you want to insert this plugin. Or click the 'Translator' button and choose 'Insert plugin' when editing the posts and pages.
       For Example:
       <html>
@@ -33,7 +33,7 @@ Translate your site in many languages with this plugin from JoyBin, Inc. (The se
           </div>
       </body>
       </html>
-    * Widget: Config the widget in Appearance->Widget->BaiDu Translator to add the plugin to the specific part of your page.
+    * Widget: Config the widget in Appearance->Widget->BD Translator to add the plugin to the specific part of your page.
 5. Set 'no translate' area. Please wrap the content you don't want to translate with the wrapper [notranslate][/notranslate] to tell the plugin not to translate the specific content.
     For Example:
 	[notranslate]THE CONTENT YOU DON'T WANT TO TRANSLATE[/notranslate]
@@ -50,7 +50,7 @@ Using the default AppID and Key means you share the same AppID and Key with all 
 
 == Screenshots ==
 
-1. The drop down list of BaiDu translator plugin.
+1. The drop down list of Translator with Baidu Service plugin.
 2. The language configuration page.
 
 == Changelog ==

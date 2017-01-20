@@ -3,11 +3,11 @@
 class BaiDu_Translator_Widget extends WP_Widget {
 	public function __construct( $id_base = false, $name = false, $widget_options = array(), $control_options = array() ) {
 		$id_base = ( $id_base ) ? $id_base : 'baidu-translator';
-		$name = ( $name ) ? $name : __( 'BaiDu Translator', 'baidu-translator' );
+		$name = ( $name ) ? $name : __( 'BD Translator', 'baidu-translator' );
 
 		$widget_options = wp_parse_args( $widget_options, array(
 			'classname'   => 'widget_baidu_translator',
-			'description' => __( 'Embed Baidu Translator widget.', 'baidu-translator' ),
+			'description' => __( 'Embed Translator with Baidu Service widget.', 'baidu-translator' ),
 		) );
 
 		$control_options = wp_parse_args( $control_options, array() );
