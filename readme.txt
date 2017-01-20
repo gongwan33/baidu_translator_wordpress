@@ -1,6 +1,6 @@
-=== Plugin Name ===
+=== Translator with Baidu Service  ===
 Contributors: gongwan33
-Donate link: http://www.joybin.cn/wordpress-plugins/baidu-translator.html
+Donate link: http://www.joybin.cn/wordpress-plugins/translator-with-baidu-service.html
 Tags: translator, internationalization, translation, localization, i18n, Cantonese
 Requires at least: 3.8
 Tested up to: 4.7
@@ -8,11 +8,11 @@ Stable tag: 4.7
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Translate your site in many languages with the BaiDu Translator plugin from JoyBin, Inc. (The service provider is Baidu.) Currently we support 25 languages and 4 kinds of Chinese.
+Translate your site in many languages with this plugin from JoyBin, Inc. (The service provider is Baidu.) Currently we support 25 languages and 4 kinds of Chinese.
 
 == Description ==
 
-Translate your site in many languages with the BaiDu Translator plugin from JoyBin, Inc. (The service provider is Baidu.) Currently we support 25 languages: Chinese, English, Japanese, Korean, French, Spanish, Thai, Arabic, Russian, Portuguese, German, Italian, Greek, Dutch, Polish, Bulgarian, Estonia, Danish, Finnish, Czech, Romanian, Slovenia, Swedish, Hungarian, Vietnamese. And we support 4 kinds of Chinese: Simplified Chinese, Cantonese, Classical Chinese and Traditional Chinese.
+Translate your site in many languages with this plugin from JoyBin, Inc. (The service provider is Baidu.) Currently we support 25 languages: Chinese, English, Japanese, Korean, French, Spanish, Thai, Arabic, Russian, Portuguese, German, Italian, Greek, Dutch, Polish, Bulgarian, Estonia, Danish, Finnish, Czech, Romanian, Slovenia, Swedish, Hungarian, Vietnamese. And we support 4 kinds of Chinese: Simplified Chinese, Cantonese, Classical Chinese and Traditional Chinese.
 
 == Installation ==
 1. Upload the plugin files to the `/wp-content/plugins/baidu-translator` directory, or install the plugin through the WordPress plugins screen directly.

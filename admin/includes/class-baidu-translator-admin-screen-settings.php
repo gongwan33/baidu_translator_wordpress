@@ -15,8 +15,8 @@ class BaiDu_Translator_Admin_Screen_Settings {
 
 	public function add_menu_item() {
 		add_options_page(
-			__( 'BaiDu Translator', 'baidu-translator' ),
-			__( 'BaiDu Translator', 'baidu-translator' ),
+			__( 'BD Translator', 'baidu-translator' ),
+			__( 'BD Translator', 'baidu-translator' ),
 			'manage_options',
 			'baidu-translator',
 			array( $this, 'render_screen' )
