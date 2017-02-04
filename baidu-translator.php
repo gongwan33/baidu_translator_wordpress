@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Translator With Baidu Service
- * Plugin URI: http://www.joybin.cn/wordpress-plugins/baidu-translator
+ * Plugin URI: http://www.joybin.cn/wordpress-plugins/translator-with-baidu-service.html
  * Description: Translate your website in many languages with this plugin from JoyBin, Inc using Baidu translating service. (28 languages supported)
- * Version: 1.0
+ * Version: 1.01
  * Author: JoyBin, Inc.
  * Author URI: http://www.joybin.cn/
  * License: GPL-2.0+
