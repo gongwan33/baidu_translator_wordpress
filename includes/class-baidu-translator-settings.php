@@ -160,9 +160,7 @@ class BaiDu_Translator_Settings {
             break;
         case 'default_lang' :
             $value = strtolower( $value );
-            if ( in_array( $value, $defaults['support_lang']) ) {
-                $this->default_lang = $value;
-            }
+            $this->default_lang = $value;
             break;
         case 'translate_range' :
             $value = strtolower( $value );
